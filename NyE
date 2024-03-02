@@ -1,0 +1,13 @@
+//ESTILOS Y NOMENCLATURA
+//FECHA: 2024.03.02
+//ÚLTIMO EDITOR/A: NICO
+
+Archivo provisional de estilos para trabjar en el proyecto de Unity.
+
+CARPETAS: PascalCase
+ARCHIVOS VARIOS: PascalCase
+VARIABLES SCRIPT: camelCase
+
+IDIOMA: INGLÉS (Para mantener coherencia con las carpetas y archivos que Unity creo por defecto)
+
+RECORDAR COMENTAR TODO.
